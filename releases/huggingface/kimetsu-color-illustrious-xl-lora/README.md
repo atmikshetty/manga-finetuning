@@ -19,14 +19,6 @@ tags:
 
 # Kimetsu Color Illustrious XL LoRA
 
-> [!CAUTION]
-> **COPYRIGHTED, UNLICENSED TRAINING DATA. NONCOMMERCIAL RESEARCH RELEASE.**
-> This adapter was trained on extracted Demon Slayer color panels. The source
-> artwork is copyrighted and was not licensed by its copyright holders for
-> this training or release. This is an unofficial release with no affiliation
-> with or endorsement by the authors, artists, publishers, rights holders, or
-> the upstream model authors.
-
 This SDXL LoRA adapts Illustrious XL toward color manga rendering. It is
 provided only for personal, research, and educational use.
 
@@ -34,7 +26,6 @@ provided only for personal, research, and educational use.
 
 - Repository: `sleephashira/kimetsu-color-illustrious-xl-lora`
 - File: `kimetsu_color_lora.safetensors`
-- Release source: `/Users/atmikshetty/personal/manga-generator/OUTPUT/kimetsu_color_lora.safetensors`
 - Size: `228473556` bytes
 - SHA-256: `dbfa9f883383b0b3ac09ecf6366be3433b2909513f5ab67fdb03cfadcbf8e6cf`
 - Base model: `OnomaAIResearch/Illustrious-xl-early-release-v0`
@@ -76,6 +67,12 @@ model can reproduce biases, visual motifs, or character associations from its
 training set and may produce malformed anatomy, text, or panel details.
 
 ## Terms, Rights, and Disclaimer
+
+This adapter was trained on extracted Demon Slayer color panels. The source
+artwork is copyrighted and was not licensed by its copyright holders for this
+training or release. This is an unofficial release with no affiliation with or
+endorsement by the authors, artists, publishers, rights holders, or upstream
+model authors.
 
 **Permitted scope:** personal, research, and educational use only.
 

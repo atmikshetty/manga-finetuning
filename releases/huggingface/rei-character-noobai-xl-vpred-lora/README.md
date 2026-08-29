@@ -18,16 +18,6 @@ tags:
 
 # Rei Character NoobAI XL V-Pred LoRA
 
-> [!CAUTION]
-> **SYNTHETIC DATA WITH COPYRIGHTED-DERIVED LINEAGE. NONCOMMERCIAL RESEARCH
-> RELEASE.** Rei is an original project character, and this adapter was trained
-> on 28 synthetic images rather than directly extracted manga panels. However,
-> those images were generated and restyled using the `multi3` adapter, which was
-> trained on copyrighted, unlicensed Bleach and JoJo panels. That indirect
-> copyrighted-derived lineage is material and must not be omitted. No copyright
-> holder licensed or endorsed that source training, this synthetic dataset, or
-> this release.
-
 This SDXL character LoRA is an unofficial release with no affiliation with or
 endorsement by any authors, artists, publishers, rights holders, or upstream
 model authors. It is provided only for personal, research, and educational use.
@@ -36,7 +26,6 @@ model authors. It is provided only for personal, research, and educational use.
 
 - Repository: `sleephashira/rei-character-noobai-xl-vpred-lora`
 - File: `reichar_noobai_vpred.safetensors`
-- Release source: `/Users/atmikshetty/personal/manga-generator/OUTPUT/reichar_noobai_vpred.safetensors`
 - Size: `456487828` bytes
 - SHA-256: `e7eddcd155cf34ea53c85160f8cdc2aa2e1902d087abab113965beb0915196c2`
 - Base model: `Laxhar/noobai-XL-Vpred-1.0`
@@ -92,6 +81,12 @@ synthetic dataset can overfit poses, clothing, facial traits, or backgrounds and
 can produce malformed anatomy or inconsistent character details.
 
 ## Terms, Rights, and Disclaimer
+
+Rei is an original project character, and this adapter was trained on 28
+synthetic images rather than directly extracted manga panels. However, those
+images were generated and restyled using the `multi3` adapter, which was trained
+on copyrighted, unlicensed Bleach and JoJo panels. No copyright holder licensed
+or endorsed that source training, synthetic dataset, or this release.
 
 **Permitted scope:** personal, research, and educational use only.
 

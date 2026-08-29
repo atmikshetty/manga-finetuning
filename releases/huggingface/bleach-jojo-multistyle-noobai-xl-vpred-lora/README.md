@@ -20,14 +20,6 @@ tags:
 
 # Bleach and JoJo Multistyle NoobAI XL V-Pred LoRA
 
-> [!CAUTION]
-> **COPYRIGHTED, UNLICENSED TRAINING DATA. NONCOMMERCIAL RESEARCH RELEASE.**
-> This adapter was trained on extracted Bleach and JoJo panels. The source
-> artwork is copyrighted and was not licensed by its copyright holders for
-> this training or release. This is an unofficial release with no affiliation
-> with or endorsement by the authors, artists, publishers, rights holders, or
-> the upstream model authors.
-
 This SDXL LoRA provides three separately prompted manga registers on NoobAI XL
 V-Pred. It is provided only for personal, research, and educational use.
 
@@ -35,7 +27,6 @@ V-Pred. It is provided only for personal, research, and educational use.
 
 - Repository: `sleephashira/bleach-jojo-multistyle-noobai-xl-vpred-lora`
 - File: `multi3_lora.safetensors`
-- Release source: `/Users/atmikshetty/personal/manga-generator/OUTPUT/multi3_lora.safetensors`
 - Size: `456519428` bytes
 - SHA-256: `bdedd00bcbd33deff9a4159d7db977a5def6cfb9b2bad11887d1e27b0aa1fba5`
 - Base model: `Laxhar/noobai-XL-Vpred-1.0`
@@ -90,6 +81,12 @@ reproduce biases, visual motifs, or character associations from its training
 set and may produce malformed anatomy, text, borders, or panel details.
 
 ## Terms, Rights, and Disclaimer
+
+This adapter was trained on extracted Bleach and JoJo panels. The source
+artwork is copyrighted and was not licensed by its copyright holders for this
+training or release. This is an unofficial release with no affiliation with or
+endorsement by the authors, artists, publishers, rights holders, or upstream
+model authors.
 
 **Permitted scope:** personal, research, and educational use only.
 

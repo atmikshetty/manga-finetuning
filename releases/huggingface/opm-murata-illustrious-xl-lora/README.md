@@ -18,14 +18,6 @@ tags:
 
 # OPM Murata Illustrious XL LoRA
 
-> [!CAUTION]
-> **COPYRIGHTED, UNLICENSED TRAINING DATA. NONCOMMERCIAL RESEARCH RELEASE.**
-> This adapter was trained on extracted One-Punch Man panels. The source
-> artwork is copyrighted and was not licensed by its copyright holders for
-> this training or release. This is an unofficial release with no affiliation
-> with or endorsement by the authors, artists, publishers, rights holders, or
-> the upstream model authors.
-
 This SDXL LoRA adapts Illustrious XL toward monochrome manga rendering. It is
 provided only for personal, research, and educational use.
 
@@ -33,7 +25,6 @@ provided only for personal, research, and educational use.
 
 - Repository: `sleephashira/opm-murata-illustrious-xl-lora`
 - File: `opm_murata_lora.safetensors`
-- Release source: `/Users/atmikshetty/personal/manga-generator/OUTPUT/opm_murata_lora.safetensors`
 - Size: `228464636` bytes
 - SHA-256: `fb8102f221a292a54f9ce0240c576c49729bff88bce97cf102bdba0c8f7d5f57`
 - Base model: `OnomaAIResearch/Illustrious-xl-early-release-v0`
@@ -74,6 +65,12 @@ model can reproduce biases, visual motifs, or character associations from its
 small training set and may produce malformed anatomy, text, or panel details.
 
 ## Terms, Rights, and Disclaimer
+
+This adapter was trained on extracted One-Punch Man panels. The source artwork
+is copyrighted and was not licensed by its copyright holders for this training
+or release. This is an unofficial release with no affiliation with or
+endorsement by the authors, artists, publishers, rights holders, or upstream
+model authors.
 
 **Permitted scope:** personal, research, and educational use only.
 
