@@ -7,5 +7,5 @@ authors:
 version: 0.1.0
 date-released: 2026-08-30
 license: Apache-2.0
-repository-code: "https://github.com/OWNER/manga-finetuning"
+repository-code: "https://github.com/atmikshetty/manga-finetuning"
 abstract: "Portable tools for lawful panel dataset preparation and SDXL LoRA training and evaluation."

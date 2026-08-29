@@ -12,4 +12,4 @@ versions follow [Semantic Versioning](https://semver.org/).
 - Generated-fixture tests, portable examples, documentation, and repository
   governance.
 
-[Unreleased]: https://github.com/OWNER/manga-finetuning/compare/v0.1.0...HEAD
+[Unreleased]: https://github.com/atmikshetty/manga-finetuning/compare/v0.1.0...HEAD
