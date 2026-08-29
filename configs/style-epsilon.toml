@@ -1,0 +1,21 @@
+[run]
+name = "style_epsilon_example"
+kind = "style"
+prediction = "epsilon"
+seed = 42
+
+[model]
+path = "${MODEL_ROOT}/base-model.safetensors"
+
+[data]
+path = "${DATA_ROOT}/style"
+resolution = [1024, 1024]
+
+[training]
+steps = 2200
+batch_size = 2
+network_dim = 32
+network_alpha = 16
+unet_lr = 1e-4
+text_encoder_lr = 5e-5
+sample_sampler = "euler_a"

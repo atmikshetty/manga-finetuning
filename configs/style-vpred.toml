@@ -1,0 +1,22 @@
+[run]
+name = "style_vpred_example"
+kind = "style"
+prediction = "v_prediction"
+zero_terminal_snr = true
+seed = 42
+
+[model]
+path = "${MODEL_ROOT}/base-vpred-model.safetensors"
+
+[data]
+path = "${DATA_ROOT}/style"
+resolution = [1024, 1024]
+
+[training]
+steps = 2400
+batch_size = 2
+network_dim = 64
+network_alpha = 32
+unet_lr = 2e-4
+text_encoder_lr = 5e-5
+sample_sampler = "euler"

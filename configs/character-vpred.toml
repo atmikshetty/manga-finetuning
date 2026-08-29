@@ -1,0 +1,22 @@
+[run]
+name = "character_vpred_example"
+kind = "character"
+prediction = "v_prediction"
+zero_terminal_snr = true
+seed = 42
+
+[model]
+path = "${MODEL_ROOT}/base-vpred-model.safetensors"
+
+[data]
+path = "${DATA_ROOT}/character"
+resolution = [1024, 1024]
+
+[training]
+steps = 1800
+batch_size = 2
+network_dim = 64
+network_alpha = 32
+unet_lr = 3e-4
+text_encoder_lr = 3e-5
+sample_sampler = "euler"
