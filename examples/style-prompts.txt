@@ -1,0 +1,3 @@
+style_token, monochrome, greyscale, solo, portrait, close-up --n low quality, text, comic --w 1024 --h 1024 --d 42 --s 28 --l 5.0
+style_token, monochrome, greyscale, solo, dynamic pose, from below --n low quality, text, comic --w 832 --h 1216 --d 42 --s 28 --l 5.0
+style_token, monochrome, greyscale, no humans, scenery, wide shot --n low quality, text, comic --w 1216 --h 832 --d 42 --s 28 --l 5.0

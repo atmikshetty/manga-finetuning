@@ -1,0 +1,3 @@
+person_token, facing viewer, upper body --n low quality, bad anatomy --w 896 --h 1152 --d 42 --s 28 --l 5.0
+person_token, from side, profile, upper body --n low quality, bad anatomy --w 896 --h 1152 --d 42 --s 28 --l 5.0
+person_token, full body, running, city street --n low quality, bad anatomy --w 832 --h 1216 --d 42 --s 28 --l 5.0
