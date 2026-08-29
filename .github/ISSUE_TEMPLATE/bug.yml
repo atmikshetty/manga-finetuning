@@ -1,0 +1,32 @@
+name: Bug report
+description: Report a reproducible defect using non-sensitive fixtures
+title: "bug: "
+labels: [bug]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: What happened, and what did you expect?
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Minimal reproduction
+      description: Use generated fixtures; do not attach private or copyrighted data.
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Version or revision
+    validations:
+      required: true
+  - type: checkboxes
+    id: safety
+    attributes:
+      label: Safety check
+      options:
+        - label: I removed credentials, personal paths, provider IDs, datasets, and model weights.
+          required: true
