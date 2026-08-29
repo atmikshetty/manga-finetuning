@@ -21,6 +21,8 @@ tags:
 This SDXL LoRA adapts Illustrious XL toward monochrome manga rendering. It is
 provided only for personal, research, and educational use.
 
+![Generated example](examples/showcase.png)
+
 ## Artifact
 
 - Repository: `sleephashira/opm-murata-illustrious-xl-lora`

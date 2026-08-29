@@ -23,6 +23,8 @@ tags:
 This SDXL LoRA provides three separately prompted manga registers on NoobAI XL
 V-Pred. It is provided only for personal, research, and educational use.
 
+![Generated example](examples/showcase.png)
+
 ## Artifact
 
 - Repository: `sleephashira/bleach-jojo-multistyle-noobai-xl-vpred-lora`

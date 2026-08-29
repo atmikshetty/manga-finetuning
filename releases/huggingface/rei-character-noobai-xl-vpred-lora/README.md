@@ -22,6 +22,8 @@ This SDXL character LoRA is an unofficial release with no affiliation with or
 endorsement by any authors, artists, publishers, rights holders, or upstream
 model authors. It is provided only for personal, research, and educational use.
 
+![Generated example](examples/showcase.png)
+
 ## Artifact
 
 - Repository: `sleephashira/rei-character-noobai-xl-vpred-lora`

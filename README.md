@@ -3,6 +3,18 @@
 Portable, auditable tools for preparing lawfully sourced panel datasets,
 training style and character SDXL LoRAs with Kohya, and reviewing checkpoints.
 
+## Showcase
+
+<table>
+  <tr>
+    <td><img src="https://huggingface.co/sleephashira/kimetsu-color-illustrious-xl-lora/resolve/main/examples/showcase.png" alt="Kimetsu color LoRA example"></td>
+    <td><img src="https://huggingface.co/sleephashira/bleach-jojo-multistyle-noobai-xl-vpred-lora/resolve/main/examples/showcase.png" alt="Multistyle color LoRA example"></td>
+    <td><img src="https://huggingface.co/sleephashira/rei-character-noobai-xl-vpred-lora/resolve/main/examples/showcase.png" alt="Rei character LoRA example"></td>
+  </tr>
+</table>
+
+Generated examples from the [Manga Finetuning LoRA Collection](https://huggingface.co/collections/sleephashira/manga-finetuning-lora-collection-6a934c160ee93453d004b9c0).
+
 > [!IMPORTANT]
 > Apache-2.0 covers code and documentation only. It does **not** license any
 > dataset, model weight, manga page, illustration, or generated artwork. This
