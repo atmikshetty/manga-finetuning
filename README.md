@@ -8,8 +8,19 @@ training style and character SDXL LoRAs with Kohya, and reviewing checkpoints.
 <table>
   <tr>
     <td><img src="https://huggingface.co/sleephashira/kimetsu-color-illustrious-xl-lora/resolve/main/examples/showcase.png" alt="Kimetsu color LoRA example"></td>
-    <td><img src="https://huggingface.co/sleephashira/bleach-jojo-multistyle-noobai-xl-vpred-lora/resolve/main/examples/showcase.png" alt="Multistyle color LoRA example"></td>
-    <td><img src="https://huggingface.co/sleephashira/rei-character-noobai-xl-vpred-lora/resolve/main/examples/showcase.png" alt="Rei character LoRA example"></td>
+    <td>
+      <table>
+        <tr>
+          <td><img src="https://huggingface.co/sleephashira/bleach-jojo-multistyle-noobai-xl-vpred-lora/resolve/main/examples/gallery-1.png" alt="Multistyle color portrait"></td>
+          <td><img src="https://huggingface.co/sleephashira/bleach-jojo-multistyle-noobai-xl-vpred-lora/resolve/main/examples/gallery-2.png" alt="Multistyle color close-up"></td>
+        </tr>
+        <tr>
+          <td><img src="https://huggingface.co/sleephashira/bleach-jojo-multistyle-noobai-xl-vpred-lora/resolve/main/examples/gallery-3.png" alt="Multistyle color silhouette"></td>
+          <td><img src="https://huggingface.co/sleephashira/bleach-jojo-multistyle-noobai-xl-vpred-lora/resolve/main/examples/gallery-4.png" alt="Multistyle color interior"></td>
+        </tr>
+      </table>
+    </td>
+    <td><img src="https://huggingface.co/sleephashira/rei-character-noobai-xl-vpred-lora/resolve/main/examples/readme-showcase.png" alt="Manga finetuning showcase"></td>
   </tr>
 </table>
 
