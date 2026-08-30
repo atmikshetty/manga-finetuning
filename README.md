@@ -20,9 +20,9 @@ Generated examples from the
 
 <img src="https://huggingface.co/sleephashira/bleach-jojo-multistyle-noobai-xl-vpred-lora/resolve/main/examples/showcase.png" alt="Composed color manga page mixing the three multistyle registers" width="560">
 
-**Rei character** — trigger `reichar`, NoobAI XL V-Pred — [model](https://huggingface.co/sleephashira/rei-character-noobai-xl-vpred-lora)
+**Bleach and JoJo multistyle, monochrome register** — multistyle LoRA at 0.75, NoobAI XL V-Pred — [model](https://huggingface.co/sleephashira/bleach-jojo-multistyle-noobai-xl-vpred-lora)
 
-<img src="https://huggingface.co/sleephashira/rei-character-noobai-xl-vpred-lora/resolve/main/examples/showcase.png" alt="Monochrome character portrait of Rei rendered by the character LoRA" width="560">
+<img src="https://huggingface.co/sleephashira/bleach-jojo-multistyle-noobai-xl-vpred-lora/resolve/main/examples/fight-panel-mono.png" alt="Monochrome manga panel of an old bearded fighter standing in the rain" width="420">
 
 > [!IMPORTANT]
 > Apache-2.0 covers code and documentation only. It does **not** license any
