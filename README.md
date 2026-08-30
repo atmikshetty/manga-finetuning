@@ -8,23 +8,19 @@ training style and character SDXL LoRAs with Kohya, and reviewing checkpoints.
 Generated examples from the
 [Manga Finetuning LoRA Collection](https://huggingface.co/collections/sleephashira/manga-finetuning-lora-collection-6a934c160ee93453d004b9c0).
 
-**Kimetsu color style** — trigger `dsmanga`, Illustrious XL
-([model](https://huggingface.co/sleephashira/kimetsu-color-illustrious-xl-lora))
+**Kimetsu color style** — trigger `dsmanga`, Illustrious XL — [model](https://huggingface.co/sleephashira/kimetsu-color-illustrious-xl-lora)
 
 <img src="https://huggingface.co/sleephashira/kimetsu-color-illustrious-xl-lora/resolve/main/examples/showcase.png" alt="Color manga panel of a water dragon technique rendered by the Kimetsu color LoRA" width="760">
 
-**OPM Murata monochrome style** — trigger `mrtmanga`, Illustrious XL
-([model](https://huggingface.co/sleephashira/opm-murata-illustrious-xl-lora))
+**OPM Murata monochrome style** — trigger `mrtmanga`, Illustrious XL — [model](https://huggingface.co/sleephashira/opm-murata-illustrious-xl-lora)
 
 <img src="https://huggingface.co/sleephashira/opm-murata-illustrious-xl-lora/resolve/main/examples/showcase.png" alt="Monochrome manga impact panel with dense speed lines rendered by the OPM Murata LoRA" width="760">
 
-**Bleach and JoJo multistyle** — triggers `blcmanga`, `blccolor`, `jjbamanga`, NoobAI XL V-Pred
-([model](https://huggingface.co/sleephashira/bleach-jojo-multistyle-noobai-xl-vpred-lora))
+**Bleach and JoJo multistyle** — triggers `blcmanga`, `blccolor`, `jjbamanga`, NoobAI XL V-Pred — [model](https://huggingface.co/sleephashira/bleach-jojo-multistyle-noobai-xl-vpred-lora)
 
 <img src="https://huggingface.co/sleephashira/bleach-jojo-multistyle-noobai-xl-vpred-lora/resolve/main/examples/showcase.png" alt="Composed color manga page mixing the three multistyle registers" width="560">
 
-**Rei character** — trigger `reichar`, NoobAI XL V-Pred
-([model](https://huggingface.co/sleephashira/rei-character-noobai-xl-vpred-lora))
+**Rei character** — trigger `reichar`, NoobAI XL V-Pred — [model](https://huggingface.co/sleephashira/rei-character-noobai-xl-vpred-lora)
 
 <img src="https://huggingface.co/sleephashira/rei-character-noobai-xl-vpred-lora/resolve/main/examples/showcase.png" alt="Monochrome character portrait of Rei rendered by the character LoRA" width="560">
 
